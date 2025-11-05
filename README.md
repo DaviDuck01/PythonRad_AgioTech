@@ -35,5 +35,5 @@ Ele permite cadastrar clientes, calcular automaticamente elegibilidade, limite e
 - Execute o AgioTech (Botão direito e selecione "Abrir com Python").
 
 ### 4. Use o programa.
-- Ao rodar pela primeira vez, o programa criara a AgioTech.db na mesma pasta que está o arquivo.
+- Ao rodar pela primeira vez, o programa criará um AgioTech.db na mesma pasta que está o arquivo.
 - Simule e Cadastre seus empréstimos
